@@ -1,0 +1,134 @@
+body{
+    margin:0;
+}
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    background-color: indigo !important;
+}
+.navbar-brand{
+    color:white;
+}
+#ProPic{
+    margin-top:10%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:200px;
+    height:200px;
+    border: 2px solid rgb(41, 20, 59);
+    border-radius: 50%;
+}
+h1.name{
+    font-family:Georgia;
+    font-weight: bold;
+    font-size:20px;
+    text-align: center;
+    color:black;
+}
+.deg{
+    font-family:Georgia;
+    font-size: small;
+    font-weight: lighter;
+    font-style: oblique;
+    color:indigo;
+}
+h3{
+    font-size: medium;
+    font-weight: bold;
+    font-family: Georgia;
+    color:indigo;
+    text-align: center;
+}
+.mail{
+    text-align: center;
+}
+#mailbtn{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: lato;
+    border-radius:0;
+    padding:10px;
+    border-color: indigo;
+    color:indigo;
+    background-color: white;
+}
+.about ,.contact{
+    padding: 20px;
+}
+h1{
+    font-weight: bold;
+    color:indigo;
+}
+p{
+    padding-left:20px;
+    padding-top:10px;
+    font-family:georgia;
+    font-weight: lighter;
+}
+.skills{
+    padding:20px;
+}
+.skill{
+    margin: 0;
+    height:40px;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.outer{
+    margin:0;
+    padding: 0;
+    height: 7px;
+    border:1px solid indigo;
+    border-width: 2px;
+    border-radius: 3px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.inner{
+    margin: 0;
+    padding: 0;
+    height:3px;
+    float:left;
+    background: indigo;
+}
+#web{
+    width:70%;
+}
+#hc{
+    width:80%;
+}
+#javascript{
+    width:60%;
+}
+#py{
+    width:60%;
+}
+#ps{
+    width:50%;
+}
+#ai{
+    width:40%;
+}
+#id{
+    width:10%;
+}
+.contact{
+    background-color:rgb(43, 18, 1);
+    border-top: 4px solid indigo;
+    padding-bottom:20px;
+}
+.con{
+    list-style-type: none;
+    padding-bottom:5px;
+    font-family:lato;
+    font-weight: lighter;
+    color:white;
+    text-decoration:none;
+}
